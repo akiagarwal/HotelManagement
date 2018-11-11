@@ -1,0 +1,17 @@
+[{
+	"_id": {
+		"$oid": "5b7db1426797ae456b94454e"
+	},
+	"name": "akshay",
+	"age": 10.0,
+	"sex": "male"
+},
+{
+	"_id": {
+		"$oid": "5b7f0ab31024ce8b7193d0e9"
+	},
+	"name": "mani",
+	"age": 30.0,
+	"sex": "female"
+}]
+
